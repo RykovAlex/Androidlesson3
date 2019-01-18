@@ -1,0 +1,1 @@
+include ':app', ':lesson3', ':twoactivity', ':intentextras', ':intentresult', ':simpleintents', ':simplebrouser', ':sharedpreferences', ':sqlitequery', ':layoutinflaterlist', ':simplelist', ':simplelistchoice', ':expandablelist'
